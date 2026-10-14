@@ -43,7 +43,7 @@ const places = {
   },
   "ward52b": {
     name: "Ward 52B (TICU/ICU)",
-    image: "routeimages/Ward 52B (TICU_ICU) /Step 0 - Ward 52B (TICU _ ICU).jpg"
+    image: "routeimages/Ward 52B (TICU_ICU)/Step 0 - Ward 52B (TICU _ ICU).jpg"
   },
   "ward7576": {
     name: "Disaster Wards 75 & 76",
